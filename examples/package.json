@@ -17,11 +17,11 @@
     "express-browserify": "^1.0.3",
     "express-rate-limit": "^5.1.3",
     "express-secure-only": "^0.2.1",
-    "ibm-watson": "^6.0.2",
+    "ibm-watson": "^8.0.0",
     "jquery": "^3.5.1",
     "object.assign": "^4.0.4",
     "vcap_services": "^0.7.1",
-    "watson-speech": "^0.38.1",
+    "watson-speech": "^0.41.0",
     "webpack": "^5.18.0",
     "webpack-dev-middleware": "^4.1.0",
     "whatwg-fetch": "^3.0.0"
