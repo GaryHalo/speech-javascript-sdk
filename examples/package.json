@@ -21,7 +21,7 @@
     "jquery": "^3.5.1",
     "object.assign": "^4.0.4",
     "vcap_services": "^0.7.1",
-    "watson-speech": "^0.38.1",
+    "watson-speech": "^0.41.0",
     "webpack": "^5.18.0",
     "webpack-dev-middleware": "^4.1.0",
     "whatwg-fetch": "^3.0.0"
